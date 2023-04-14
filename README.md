@@ -1,5 +1,14 @@
-### 👋 oie! 👀
+### ei, tu! 👀
 
+✨
+
+#### 😊 sou Alana 👋
+
+* 🌱 desenvolvedora full stack em formação pela Kenzie Academy Brasil
+* apaixonada pela minha família 🐈🐈‍⬛🐈
+* metida a fotógrafa
+* amante de cafés especiais
+* viciada em usar emojis
 <!--
 **nicegrrrl/nicegrrrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
