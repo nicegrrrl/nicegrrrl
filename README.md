@@ -15,6 +15,6 @@
 
 ##### ✨
 
-Quer acompanhar minhas atividades na Kenzie? Vem cá!
+Quer acompanhar minhas atividade? Vem cá!
 
--  <code style="color : cyan">[módulo 1](https://github.com/nicegrrrl/entregas-kenzie-m1)</code>
+-  <code style="color : cyan">[SheCodes](https://github.com/nicegrrrl/entregas-kenzie-m1)</code>
