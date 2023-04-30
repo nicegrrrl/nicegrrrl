@@ -15,6 +15,7 @@
 
 ##### ✨
 
+
 Quer acompanhar minhas atividade? Vem cá!
 
 -  <code style="color : cyan">[SheCodes]()</code>
