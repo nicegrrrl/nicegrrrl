@@ -1,4 +1,5 @@
-### ei, tu! 👀
+<!-- 
+  ### ei, tu! 👀
 
 ✨
 
@@ -15,7 +16,25 @@
 
 ##### ✨
 
+-->
 
-<!-- Quer acompanhar minhas atividade? Vem cá! -->
-
-<!-- -  <code style="color : cyan">[SheCodes]()</code> -->
+<div>
+  <h2>ei, tu! 👀</h2>
+  <br>
+  <p>✨</p>
+  <br>
+  <img src="/sailor-moon.png">
+  <p style="text-align: right;">✨</p>
+  <br>
+  
+  <h4>😊 sou $\textit{Alana}$ 👋</h4>
+  <ul style="text-style: square">
+    <li>💻 desenvolvedora full stack em formação pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a></li>
+    <li>💗 apaixonada pela minha família 👨‍👩‍👧🐈🐈‍⬛🐈</li>
+    <li>📸 metida a <a href="https://500px.com/p/nanuxcah" target="_blank">fotógrafa</a></li>
+    <li>☕ amante de cafés especiais</li>
+    <li>😳 viciada em usar emojis</li>
+  </ul>
+  <p>✨</p>
+  
+</div>
