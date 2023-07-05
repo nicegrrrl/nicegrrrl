@@ -33,6 +33,7 @@
     <li>💗 apaixonada pela minha família 👨‍👩‍👧🐈🐈‍⬛🐈</li>
     <li>📸 metida a <a href="https://500px.com/p/nanuxcah" target="_blank">fotógrafa</a></li>
     <li>☕ amante de cafés especiais</li>
+    <li>🎶 obcecada por <a href="https://www.last.fm/pt/user/nanindie" target="_blank">música</a></li>
     <li>😳 viciada em usar emojis</li>
   </ul>
   <p>✨</p>
