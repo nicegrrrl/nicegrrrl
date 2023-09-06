@@ -32,7 +32,7 @@
   <h2>Tools</h2>
   <div style="display: inline_block">
     <img align="center" alt="git" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/a50b6b06-2b2c-4f29-9b25-4443b4d38d4c">
-    <img align="center" alt="github" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/02b37524-a129-473a-973c-77da1f4e7aed">
+    <img align="center" alt="github" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/24d32cd6-b084-4091-8a95-c983067c2d5a">
     <img align="center" alt="figma" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/e8f40f2c-9453-48c4-ab32-852e12a2f23e">
     <img align="center" alt="trello" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/3765aeac-058a-4ca0-9036-868af7aa156b">
     <img align="center" alt="notion" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
