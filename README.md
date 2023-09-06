@@ -1,37 +1,10 @@
-<!-- 
-  ### ei, tu! 👀
-
-✨
-
-![Sailor Moon](/sailor-moon.png)
-✨
-
-#### 😊 sou $\textit{Alana}$ 👋
-
-- 💻 desenvolvedora full stack em formação pela [Kenzie Academy Brasil](https://kenzie.com.br/)
-- 💗 apaixonada pela minha família 👨‍👩‍👧🐈🐈‍⬛🐈
-- 📸 metida a [fotógrafa](https://500px.com/p/nanuxcah)
-- ☕ amante de cafés especiais 
-- 😳 viciada em usar emojis
-
-##### ✨
-
--->
-
 <div>
   <div>
-    
+ 
   <h2>ei, tu! 👀</h2>
-  <div>
-    <img align="left" alt="" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/f2741c21-2b00-4c59-8709-ecb3c2f93881">
-    <img align="left" alt="" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/915e795f-2736-4058-a003-05adacddb3b2">
-  </div>
-  <!-- <img src="/sailor-moon.png"> 
-  <p style="text-align: right;">✨</p>
-  <br>-->
-  </div>
-
-  
+  <br>
+    
+  <img align="left" alt="cat" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/421dcdd9-c21a-4016-ab6b-9fd60e084add">
   <br>
   <br>
   <h4>😊 sou $\textit{Alana}$ 👋</h4>
@@ -45,7 +18,9 @@
   </ul>
   <p>✨</p>
 
-  <br>
+   <br>
+   <img align="left" alt="laptop" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/6062699c-b104-412e-a7dd-0fbbc1a99a68">
+   <br>
   <h2>Stacks</h2>
   <div style="display: inline_block">
     <img align="center" alt="html" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/a665137f-6f78-45ff-8774-dd7d69dabaec">
