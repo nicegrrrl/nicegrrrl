@@ -1,7 +1,7 @@
 <div>
   <div>
  
-  <h2>ei, tu! 👀</h2>
+  <h1>ei, tu! 👀</h1>
   <br>
   <img align="left" alt="laptop" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/6062699c-b104-412e-a7dd-0fbbc1a99a68">  
   <img align="left" alt="cat" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/421dcdd9-c21a-4016-ab6b-9fd60e084add">
