@@ -22,16 +22,18 @@
   <div>
     
   <h2>ei, tu! 👀</h2>
-  <img align="right" alt="" height="20" width="20" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/f2741c21-2b00-4c59-8709-ecb3c2f93881">
-  
-  <img align="left" alt="" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/915e795f-2736-4058-a003-05adacddb3b2">
+  <div>
+    <img align="left" alt="" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/f2741c21-2b00-4c59-8709-ecb3c2f93881">
+    <img align="left" alt="" height="35" width="35" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/915e795f-2736-4058-a003-05adacddb3b2">
+  </div>
   <!-- <img src="/sailor-moon.png"> 
   <p style="text-align: right;">✨</p>
   <br>-->
   </div>
 
   
-  
+  <br>
+  <br>
   <h4>😊 sou $\textit{Alana}$ 👋</h4>
   <ul style="text-style: square">
     <li>💻 desenvolvedora full stack em formação pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a></li>
@@ -43,6 +45,7 @@
   </ul>
   <p>✨</p>
 
+  <br>
   <h2>Stacks</h2>
   <div style="display: inline_block">
     <img align="center" alt="html" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/a665137f-6f78-45ff-8774-dd7d69dabaec">
