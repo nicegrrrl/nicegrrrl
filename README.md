@@ -9,6 +9,7 @@
   <br>
   <h4>😊 sou $\textit{Alana}$ 👋</h4>
   <ul style="text-style: square">
+    <li>👩🏻‍💻 desenvolvedora front end</li>
     <li>💻 desenvolvedora full stack em formação pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a></li>
     <li>💗 apaixonada pela minha família 👨‍👩‍👧🐈🐈‍⬛🐈</li>
     <li>📸 metida a <a href="https://500px.com/p/nanuxcah" target="_blank">fotógrafa</a></li>
