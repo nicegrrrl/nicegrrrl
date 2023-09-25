@@ -7,7 +7,7 @@
   <img align="left" alt="cat" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/421dcdd9-c21a-4016-ab6b-9fd60e084add">
   <br>
   <br>
-  <h4>😊 sou $\textit{Alana}$ 👋</h4>
+  <h4>😊 sou Alana 👋</h4>
   <ul style="text-style: square">
     <li>👩🏻‍💻 desenvolvedora frontend</li>
     <li>💻 desenvolvedora fullstack em formação pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a></li>
