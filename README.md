@@ -1,7 +1,7 @@
 <div>
   <div>
  
-  <h1>ei, tu! 👀</h1>
+  <h1>olá! 👀</h1>
   <br>
   <img align="left" alt="laptop" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/6062699c-b104-412e-a7dd-0fbbc1a99a68">  
   <img align="left" alt="cat" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/421dcdd9-c21a-4016-ab6b-9fd60e084add">
@@ -10,10 +10,10 @@
   <h4>😊 sou Alana 👋</h4>
   <ul style="text-style: square">
     <li>👩🏻‍💻 desenvolvedora frontend</li>
-    <li>💻 desenvolvedora fullstack em formação pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a></li>
+    <li>💻 desenvolvedora fullstack</li>
     <li>💗 apaixonada pela minha família 👨‍👩‍👧🐈🐈‍⬛🐈</li>
     <li>📸 metida a <a href="https://500px.com/p/nanuxcah" target="_blank">fotógrafa</a></li>
-    <li>☕ amante de cafés especiais</li>
+    <li>☕ amante de cafés</li>
     <li>🎶 obcecada por <a href="https://www.last.fm/pt/user/nanindie" target="_blank">música</a></li>
     <li>😳 viciada em usar emojis</li>
   </ul>
