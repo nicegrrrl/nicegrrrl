@@ -28,6 +28,8 @@
     <img align="center" alt="js" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/e958709d-33de-4d44-8107-8571e417c24d">
     <img align="center" alt="ts" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/b893d34a-319b-4da8-8b8d-9cc7e1744f82">
     <img align="center" alt="reactjs" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/f7aa7770-84fe-44c8-9658-db333655e089">
+    <img align="center" alt="ant-design" height="45" width="45" src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png">
+    <img align="center" alt="styled-components" height="45" width="45" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
   </div>
     <br>
   <h2>Tools</h2>
@@ -38,6 +40,7 @@
     <img align="center" alt="trello" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/3765aeac-058a-4ca0-9036-868af7aa156b">
     <img align="center" alt="notion" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
     <img align="center" alt="insomnia" height="45" width="45" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png">
+    <img align="center" alt="click-up" height="45" width="45" src="https://pnghq.com/wp-content/uploads/clickup-logo-png-png-download-51589.png">
   </div>
     
 </div>
