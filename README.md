@@ -27,6 +27,7 @@
     <img align="center" alt="sass" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/951d3569-77a9-4738-ae71-ad8127aab330">
     <img align="center" alt="js" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/e958709d-33de-4d44-8107-8571e417c24d">
     <img align="center" alt="ts" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/b893d34a-319b-4da8-8b8d-9cc7e1744f82">
+    <img align="center" alt="angular" height="45" width="45" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png">
     <img align="center" alt="reactjs" height="45" width="45" src="https://github.com/nicegrrrl/nicegrrrl/assets/49173717/f7aa7770-84fe-44c8-9658-db333655e089">
     <img align="center" alt="ant-design" height="45" width="45" src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png">
     <img align="center" alt="styled-components" height="45" width="45" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
@@ -43,5 +44,8 @@
     <img align="center" alt="click-up" height="45" width="45" src="https://pnghq.com/wp-content/uploads/clickup-logo-png-png-download-51589.png">
   </div>
     
+  </div>
+  <p>✨</p>
 </div>
-</div>
+
+[![An image of @nicegrrrl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nicegrrrl)](https://holopin.io/@nicegrrrl)
